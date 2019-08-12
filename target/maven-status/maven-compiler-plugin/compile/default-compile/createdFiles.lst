@@ -1,0 +1,4 @@
+com/microservices2/exercise1/apicostumer/model/Customer.class
+com/microservices2/exercise1/apicostumer/controller/CustomerController.class
+com/microservices2/exercise1/apicostumer/service/CustomerService.class
+com/microservices2/exercise1/apicostumer/ApiCustomerApplication.class
